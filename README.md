@@ -1,1 +1,1 @@
-# Top-1000-Twitch-Streamers-Data
+# Top-Twitch-Streamers-Data
