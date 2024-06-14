@@ -7,6 +7,5 @@
 ![image](https://github.com/khorkina/Top-1000-Twitch-Streamers-Data/assets/166530415/e84a0374-a020-40e6-aa3a-586c9867a67a)
 ![image](https://github.com/khorkina/Top-1000-Twitch-Streamers-Data/assets/166530415/46f513ad-c1bb-434a-93c0-263b18fcb6ec)
 ![image](https://github.com/khorkina/Top-1000-Twitch-Streamers-Data/assets/166530415/cb67239f-4272-4e6f-bd77-ead75eeb4964)
-![image](https://github.com/khorkina/Top-1000-Twitch-Streamers-Data/assets/166530415/cb037966-df34-41f8-a530-a18f0775bdd0)
 ![image](https://github.com/khorkina/Top-1000-Twitch-Streamers-Data/assets/166530415/96b49d9b-f5b6-4394-b084-2ed2fdafd86b)
 ![image](https://github.com/khorkina/Top-1000-Twitch-Streamers-Data/assets/166530415/942bf697-d5c8-4929-8d85-e1b3959f7d2c)
